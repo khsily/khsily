@@ -19,5 +19,5 @@
 
 ### 🔝 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=khsily&limit=4&theme=transparent&combine_all_yearly_contributions=true&hide_title=true&line_height=30" />
+<img src="https://github-contributor-stats.vercel.app/api?username=khsily&limit=5&theme=transparent&combine_all_yearly_contributions=true&line_height=28" />
 
