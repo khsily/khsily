@@ -1,8 +1,8 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khsily&theme=transparent&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khsily&theme=transparent&hide_border=false" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=khsily&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&card_width" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khsily&theme=transparent&hide_border=false&card_width=400px" />  
 </p>
 
 ### 💻 Tech Stack
